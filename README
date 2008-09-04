@@ -1,0 +1,7 @@
+= Wordpress Link Saver
+
+Maintains links from content imported from WordPress and assumes that you have 
+recorded the WordPress page ids as 'wordpress_id' on the pages table.
+
+Built by Saturn Flyer http://www.saturnflyer.com
+Supported by Braintree Payment Solutions http://www.braintreepaymentsolutions.com
