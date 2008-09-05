@@ -3,5 +3,7 @@
 Maintains links from content imported from WordPress and assumes that you have 
 recorded the WordPress page ids as 'wordpress_id' on the pages table.
 
+Be sure to run 'rake radiant:extensions:wordpress_link_saver:migrate'
+
 Built by Saturn Flyer http://www.saturnflyer.com
 Supported by Braintree Payment Solutions http://www.braintreepaymentsolutions.com
